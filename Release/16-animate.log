@@ -1,0 +1,13 @@
+﻿Build started 5/1/2012 9:32:13 PM.
+     1>Project "C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\16-animate\16-animate.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\16-animate.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt anim.cpp
+         anim.cpp
+     1>anim.cpp(2): fatal error C1083: Cannot open include file: 'FL/Fl.H': No such file or directory
+     1>Done Building Project "C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\16-animate\16-animate.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.37
